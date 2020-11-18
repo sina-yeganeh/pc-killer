@@ -1,0 +1,8 @@
+def copyfile(number, format, text):
+    n = 0
+    while True:
+        namefile = [i for i in range(0, number)]
+        with open(namefile[n] + format, 'w') as file:
+            file.write(text)
+
+        n = n + 1
