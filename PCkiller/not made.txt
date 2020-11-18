@@ -1,0 +1,8 @@
+def delete(drive):
+    pass
+
+def lockdrive():
+    pass
+
+def shutdownforever():
+    pass
