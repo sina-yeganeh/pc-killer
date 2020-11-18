@@ -1,5 +1,38 @@
 # PCkiller
-<b>One tool hacking for make virus!</b>
 
-### Screnshot
-![PCkiller](file:///F:/PCkiller/pic/pckiller.PNG)
+<p align="center">
+<a href="#"><img title="PC killer" src="https://s16.picofile.com/file/8414416926/pc_killer.PNG"></img></a>
+</p>
+<br>
+
+## What can it do?
+#### Date: 11/18/2020
+- Make 7 virus.
+- Have a complity help list.
+- It can make a hibrid virus.
+<br>
+
+## Installation
+#### Instalation ONE:
+- `Install GIT` from here: [Git site](https://git-scm.com/)
+- `install python and library or tool do that!`
+- open your cmd: `git clone https://github.com/sina-yeganeh/PCkiller/`
+- `cd PCkiller` and `python main.py`
+- **FINISH!**
+
+#### Instalation TOW:
+- Upload file
+- open cmd and: `cd "path-file"`
+- `python main.py`
+- **FINISH!**
+<br>
+
+## Upgrade
+#### What other options will be added?
+- [ ] Add another Virus.
+- [ ] Complet **My virus** part.
+- [ ] Complet **File option** part.
+- [ ] Add your affer!
+<br>
+
+- <p><b> Please comment and complete the bugs and sections. Thankful!</b></p>
