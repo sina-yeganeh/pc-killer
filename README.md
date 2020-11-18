@@ -10,6 +10,7 @@
 - Make 7 virus.
 - Have a complity help list.
 - It can make a hibrid virus.
+- A simpel cmd: `PCkiller:\Home\`
 <br>
 
 ## Installation
