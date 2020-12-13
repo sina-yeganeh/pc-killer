@@ -1,7 +1,7 @@
 # PCkiller
 
 <p align="center">
-<a href="#"><img title="PC killer" src="https://s16.picofile.com/file/8414416926/pc_killer.PNG"></img></a>
+<a href="#"><img title="PC killer" src="https://s16.picofile.com/file/8417317400/new_pckiller.PNG"></img></a>
 </p>
 <br>
 
